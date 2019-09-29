@@ -7,13 +7,13 @@ title: 花生2019
 subtitle: 投资网
 description:
 keywords: 投资，理财，任志强，欧神
-author: John Doe
-language: en
+author: 花生
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://fortouzi.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
