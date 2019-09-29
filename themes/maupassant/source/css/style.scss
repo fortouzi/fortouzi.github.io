@@ -142,6 +142,20 @@ div {
     top: 0;
 }
 
+.fixed-top {
+    background-color: #3ca5f6;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 0.12rem;
+    display: inline-block;
+    padding: 0 5px;
+    line-height: 20px;
+}
+
+.content-dashed {
+    margin-top: 10px;
+}
+
 #sidebar {
     border-left: 1px solid #ddd;
     padding-left: 35px;
@@ -1036,7 +1050,7 @@ screen and (min-width: 48em) {
 .readmore a {
     font-size: 14px;
     color: #444;
-    margin: -10px 0;
+    margin: -40px 0;
     padding: 5px 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -1052,6 +1066,10 @@ screen and (min-width: 48em) {
         background: #F8F8F8;
         border-bottom-color: #D26911;
     }
+}
+
+.readmore {
+    border-bottom: 1px dashed #ddd;
 }
 
 /* syntax highlight*/

@@ -1,6 +1,6 @@
 $(window).scroll(function () {
     $(window).scrollTop() > 500 ? $("#rocket").addClass("show") : $("#rocket").removeClass("show");
-    $(window).scrollTop() > 40 ? $("#sidebar").addClass("fixed") : $("#sidebar").removeClass("fixed");
+    $(window).scrollTop() > 100 ? $("#sidebar").addClass("fixed") : $("#sidebar").removeClass("fixed");
     // $(window).scrollTop() > 40 ? $("#header").addClass("fixed") : $("#header").removeClass("fixed");
 });
 $("#rocket").click(function () {
