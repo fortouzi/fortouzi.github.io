@@ -60,14 +60,14 @@ post_copyright:
   author: huasheng2019 ## Your author name, e.g. tufu9441
   copyright_text: ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
 logo:
-  logo: /img/AliPayQR.png
+  logo: /img/pweixin.png
 
 
 menu:
   - page: 首页
     directory: .
     icon: fa-home
-  - page: 时间轴
+  - page: 归档
     directory: archives/
     icon: fa-archive
   - page: 书单

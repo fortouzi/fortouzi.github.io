@@ -134,7 +134,6 @@ div {
 #header.fixed {
     position: fixed;
     top: 0;
-
 }
 
 #sidebar.fixed {
@@ -146,10 +145,11 @@ div {
     background-color: #3ca5f6;
     color: #fff;
     border-radius: 3px;
-    font-size: 0.12rem;
+    font-size: 12px;
     display: inline-block;
     padding: 0 5px;
     line-height: 20px;
+    font-weight: 600;
 }
 
 .content-dashed {

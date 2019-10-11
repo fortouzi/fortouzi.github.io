@@ -5,7 +5,7 @@ comments: true
 tags: [hexo插件,hexo博客,hexo教程] #文章标签
 categories: hexo #文章分类
 toc: false
-top: false
+top: true
 yuanchuang: true
 ---
  
