@@ -67,7 +67,7 @@ menu:
   - page: 首页
     directory: .
     icon: fa-home
-  - page: 归档
+  - page: 历史文章
     directory: archives/
     icon: fa-archive
   - page: 书单
