@@ -7,9 +7,10 @@ tags: #文章标签
   - 
   - 
 categories: # 文章分类
+  - 房地产
   - 投资
   - 股票
-  - 房地产
+
 toc: false
 top: false
 yuanchuang: true
