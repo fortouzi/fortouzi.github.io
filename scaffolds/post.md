@@ -16,6 +16,7 @@ yuanchuang: true
 ---
 简介
 <!--more-->
+内容
 <!-- ![](/logo_img_sc.php.png) 图片引用 -->
 <!--footer-->
 末尾
