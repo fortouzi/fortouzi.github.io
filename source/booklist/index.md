@@ -17,17 +17,16 @@ comments: false
 #### 房地产
 ```
 《独自神思》-麦兜
+《欧神文集6篇》-欧神
 ```
 
 
 
-#### 联系我
-
-![](../images/pweixin.png)
+#### 本人已经整理好上述的图书 PDF，如果有需要，可以添加我微信,免费发送给你
 
 
 
-<script>$(".header-02-3 a:first").addClass('current');</script>
+
 
 　　
 
